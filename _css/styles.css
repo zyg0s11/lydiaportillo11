@@ -1,0 +1,86 @@
+/*-------------------------------------
+| Background
+-------------------------------------*/
+body {
+	background-color: #90CD84;
+}
+
+.navbar nav {
+	width: auto;
+	height: 40px;
+	background-color: #388B57;
+	text-align: center;
+}
+
+.navbar a {
+	text-decoration: none;
+}
+
+.navbar nav {
+	width: auto;
+	height: 40px;
+	background-color: #388B57;
+	text-align: center;
+}
+
+.navbar a {
+	text-decoration: none;
+}
+
+/*-------------------------------------
+| Portfolio
+-------------------------------------*/
+
+#main .Pic1 {
+	
+	width: 275px;
+	height: 440px;
+	background-color: #75A15F;
+	float: right;
+    margin: 52px 0 5px 84px;
+    padding-right: 20px;
+}
+
+#main .Pic2 {
+	width: 275px;
+	height: 440px;
+	background-color: #75A15F;
+	float: right;
+    margin: 52px 5px 0px 65px;
+}
+
+#main .Pic3 {
+	width: 275px;
+	height: 440px;
+	background-color: #75A15F;
+	float: right;
+    margin: 52px 0 5px 65px;
+}
+
+#main .Pic4 {
+	width: 275px;
+	height: 440px;
+	background-color: #75A15F;
+	float: left;
+    margin: 52px 0 0px 0px;
+}
+
+/*-------------------------------------
+| Contact
+-------------------------------------*/
+
+.boxes .box1 {
+	width: 800px;
+	height: 500px;
+	background-color: #99B687;
+	margin-left: 300px;
+	margin-top: 80px;
+}
+
+
+
+
+
+
+
+
